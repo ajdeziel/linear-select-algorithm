@@ -1,2 +1,2 @@
-# linear-select-algorithm
-An implementation of a linear time selection algorithm using medians of medians pivot selection method
+# Implementation of LinearSelect: An sorting algorithm running in linear time
+This program was designed for an assignment in a university level algorithms and data structure course. The code was originally derived from a template of a QuickSelect algorithm, with the task being to convert it so that it would run in linear time. This was to be accomplished by choosing the sorting algorithm's pivot using the median of medians method.
